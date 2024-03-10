@@ -1,4 +1,3 @@
-<!-- public/index.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,6 +8,20 @@
 </head>
 <body>
   <div id="app"></div>
+
+  <div id="addNoteForm">
+    <h2>Add New Note</h2>
+    <form id="noteForm">
+      <label for="title">Title:</label>
+      <input type="text" id="title" name="title" required>
+      <br>
+      <label for="content">Content:</label>
+      <textarea id="content" name="content" required></textarea>
+      <br>
+      <button type="button" onclick="addNote()">Add Note</button>
+    </form>
+  </div>
+
   <script src="app.js"></script>
 </body>
 </html>
