@@ -1,32 +1,26 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a note-taking web app. The user creates, updates, organizes, and deletes notes as needed. The app loads the users' notes directly.
 
-{Provide a description of the software that you wrote to demonstrate the TypeScript language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/XX2b40mA2FQ)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+Editor: VS Code
+Language: TypeScript
+Other tools: Node.js
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [W3Schools](https://www.w3schools.com/typescript/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+A list of things that you need to improve, and add in the future
 
-- Item 1
-- Item 2
-- Item 3
+- Add color options,
+- Improve my design,
+- Make the note moveable,
+- Add a login system.
